@@ -1,4 +1,4 @@
-[
+export default [
   { label: "ADRIEN GOMBEAUD" },
   { label: "ADRIEN LELIEVRE" },
   { label: "ALAIN RUELLO" },
